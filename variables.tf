@@ -8,7 +8,7 @@ variable "location" {
 
 variable "vm_size" {
 
-    default = "Standard_D2s_v3"
+    default = "D2ads_v7"
   
 }
 

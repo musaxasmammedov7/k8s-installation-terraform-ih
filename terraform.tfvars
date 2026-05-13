@@ -1,3 +1,3 @@
 prefix = "musa2-dlab-aks"
-location = "West US 2"
+location = "UK South"
 default_node_pool_name = "sau"
